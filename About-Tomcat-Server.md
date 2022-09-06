@@ -68,6 +68,10 @@
 ####   - Configuration Files
 
           - conf/tomcat-users.xml
+          
+          - conf/server.xml
+          
+          - conf/context.xml
         
 ####    - Deployment App (webapps)
 
@@ -81,4 +85,8 @@
           
           - Stop
           
-        - Logs
+####    - Logs (log files of tomcat server)
+
+           - logs/catalina.out
+           
+           - loga/access.log

@@ -89,4 +89,4 @@
 
            - logs/catalina.out
            
-           - loga/access.log
+           - logs/access.log
